@@ -1,4 +1,4 @@
-package edu.list;
+package edu.list.tarefas;
 
 public class ListExercism {
     public static void main(String[] args) {
